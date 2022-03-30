@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/parcial2.iml" filepath="$PROJECT_DIR$/.idea/parcial2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcial2Arep/parcial2Arep.iml" filepath="$PROJECT_DIR$/parcial2Arep/parcial2Arep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcialarep/parcialarep.iml" filepath="$PROJECT_DIR$/parcialarep/parcialarep.iml" />
+    </modules>
+  </component>
+</project>
